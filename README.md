@@ -35,7 +35,6 @@
    8) Microsoft Azure Pass (https://www.microsoftazurepass.com/)
    9) Microsoft Function App
    10) Azure Architecture Center (https://docs.microsoft.com/en-us/azure/architecture/)
-   
 12) Devops	
    1. Traditional SDLC Management
    2. Product Manager
