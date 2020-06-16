@@ -1,5 +1,5 @@
 # Azure Uygulama
-## Eğitmen : Hakkı SAĞDIÇ
+## Eğitmen : Hakkı SAĞDIÇ- Hakkı ÖĞRETMEN
 ## Düzenleyen: Zeynep HASRET - Sıla SAVAŞ - Hatice USTA 
 ### Ders Akışı 
 1) [Gig Economy](https://www.dunya.com/tekno-trend/calisma-hayatinin-gelecegi-gig-economy-olacak-haberi-429980)
